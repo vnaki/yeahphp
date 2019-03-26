@@ -26,4 +26,4 @@ PHP MVC Framework - YeahPHP
 
 ##### 有需要的可以加我微信
 
-!(我的微信二维码)[https://raw.githubusercontent.com/wuquanyao/images/master/wechat_qrcode.png]
+![我的微信二维码](https://raw.githubusercontent.com/wuquanyao/images/master/wechat_qrcode.png)
