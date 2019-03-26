@@ -22,3 +22,8 @@ PHP MVC Framework - YeahPHP
 - Cli       命令交互
 
 
+> session、log、cache、database 组件之前已经实现过，为了符合当前框架架构思路，准备重新编写
+
+##### 有需要的可以加我微信
+
+!(我的微信二维码)[https://raw.githubusercontent.com/wuquanyao/images/master/wechat_qrcode.png]
