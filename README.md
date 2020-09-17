@@ -1,6 +1,11 @@
 PHP MVC Framework - YeahPHP
 ---
 
+#### 下面2个草稿版为思路验证，仅供学习参考
+
+> https://gitee.com/wuquanyao/kite
+> https://gitee.com/wuquanyao/zero
+
 > 说明:该版本为草稿版，仅供学习参考使用，不能用于生产环境
 
 ##### 已经实现以下基础组件:
