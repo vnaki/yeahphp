@@ -3,8 +3,8 @@ PHP MVC Framework - YeahPHP
 
 #### 下面2个草稿版为思路验证，仅供学习参考
 
-> https://gitee.com/wuquanyao/kite
-> https://gitee.com/wuquanyao/zero
+- https://gitee.com/wuquanyao/kite
+- https://gitee.com/wuquanyao/zero
 
 > 说明:该版本为草稿版，仅供学习参考使用，不能用于生产环境
 
@@ -26,9 +26,3 @@ PHP MVC Framework - YeahPHP
 - Database  数据库操作
 - Cli       命令交互
 
-
-> session、log、cache、database 组件之前已经实现过，为了符合当前框架架构思路，准备重新编写
-
-##### 有需要的可以加我微信
-
-![我的微信二维码](https://raw.githubusercontent.com/wuquanyao/images/master/wechat_qrcode.png)
